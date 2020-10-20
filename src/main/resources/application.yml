@@ -1,0 +1,11 @@
+
+server:
+  port: 8086
+spring:
+  data:
+    mongodb:
+      database: notice-board-5
+      host: localhost
+      port: 0
+
+
